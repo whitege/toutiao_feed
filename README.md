@@ -1,4 +1,4 @@
-# toutiao_feed
+# toutiao_feed(学习demo)
 仿照今日头条的feed流
 
 #### cd server 
